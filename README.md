@@ -5,7 +5,7 @@ Abaixo está o link do vídeo de demonstração:
 
 [Vídeo de Demonstração](https://drive.google.com/file/d/1jt5uy90MEgqfYMdG4UtRNWw5wL0I_csj/view?usp=sharing)
 
-Como extra utilizei 'parte' dos princípios de Clean Code para realizar a ponderada, não utilizando muito de Clean Architechture.
+Como extra utilizei 'parte' dos princípios de Clean Code para realizar a ponderada, não utilizando muito de Clean Architechture. No vídeo resumi esse tópico a apenas Clean Code, mas foi uma confusão do momento.
 
 ### Abaixo contexto do app e explicação técnica + instruções de uso:
 
